@@ -152,7 +152,6 @@ class WorldGuard extends PluginBase
   \ \ /\ / /   / _ \  | '__| | |  / _` | | |  _  | | | |  / _` | | '__|  / _` |
    \ V  V /   | (_) | | |    | | | (_| | | |_| | | |_| | | (_| | | |    | (_| |
     \_/\_/     \___/  |_|    |_|  \__,_|  \____|  \__,_|  \__,_| |_|     \__,_|
-             by: fernanACM | https://github.com/fernanACM                                                                  
                                                                                ");
         $this->resourceManager = ResourceManager::getInstance($this, $this->getServer());
         $this->resourceManager->loadResources();
