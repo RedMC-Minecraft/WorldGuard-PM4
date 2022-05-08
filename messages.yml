@@ -1,14 +1,14 @@
 ---
   denied-enter: §l§4Red§fProtect §r§7» No Puedes Entrar a Esta Arena
-  denied-leave: You cannot leave this area.
-  no-permission-for-command: You do not have permission to use this command.
-  denied-eat: You cannot eat in this area.
-  denied-ender-pearls: You cannot use ender pearls in this area.
-  denied-chat: You cannot chat in this region.
-  denied-item-drop: You cannot drop items in this region.
-  denied-pvp: You cannot hurt players of this region.
-  denied-block-break: You cannot break blocks in this region.
-  denied-block-place: You cannot place blocks in this region.
-  denied-hurt-animal: You cannot hurt animals of this region.
-  denied-hurt-monster: You cannot hurt monsters of this region.
+  denied-leave: §l§4Red§fProtect §r§7» No Puedes Salir de Esta Arena
+  no-permission-for-command: §l§4Red§fProtect §r§7» No Tienes Permisos para usar este Comando
+  denied-eat: §l§4Red§fProtect §r§7» No Puedes Comer en esta Area
+  denied-ender-pearls: §l§4Red§fProtect §r§7» No Puedes Usar Ender Pearls en esta Area
+  denied-chat: §l§4Red§fProtect §r§7» No Puedes Usar el Chat en Esta Area
+  denied-item-drop: §l§4Red§fProtect §r§7» No Puedes Dropear items en esta area
+  denied-pvp: §l§4Red§fProtect §r§7» No Puedes Dañar Jugadores en esta Area
+  denied-block-break: §l§4Red§fProtect §r§7» No Puedes Romper Bloques en esta Area
+  denied-block-place: §l§4Red§fProtect §r§7» No Puedes Poner Bloques en esta Arena
+  denied-hurt-animal: §l§4Red§fProtect §r§7» No Puedes Dañar Animales en esta Arena
+  denied-hurt-monster: §l§4Red§fProtect §r§7» No Puedes Dañar Mobs Hostiles en esta Arena
 ...
